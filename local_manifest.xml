@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="SnowQueenGit" fetch="https://github.com"/>
+
+  <project name="SnowQueenGit/temp" path="device/realme/RMX2170" remote="SnowQueenGit" revision="havoc-11" />
+  <project name="SnowQueenGit/temp" path="device/realme/sm7125-common" remote="SnowQueenGit" revision="11" />
+  <project name="SnowQurenGit/temp3" path="kernel/realme/sm7125" remote="SnowQueenGit" revision="aex8" />
+  <project name="SnowQueenGit/temp2" path="vendor/realme" remote="SnowQueenGit" revision="android-11" />
+</manifest>
